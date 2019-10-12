@@ -1,0 +1,26 @@
+{
+  "name": "itc285",
+  "version": "1.0.0",
+  "description": "Capstone Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyacodes/itc285.git"
+  },
+  "author": "Aliya Asken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliyacodes/itc285/issues"
+  },
+  "homepage": "https://github.com/aliyacodes/itc285#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.4.3",
+    "socket.io": "^2.3.0"
+  }
+}
